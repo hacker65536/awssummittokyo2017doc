@@ -119,4 +119,9 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 
 ## Getting Started
 
+Free Tier  
 https://aws.amazon.com/jp/free/?nc2=h_ql
+
+### cost
+
+https://calculator.s3.amazonaws.com/index.html
