@@ -20,6 +20,11 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 〒108-8612　東京都港区高輪 3-13-1  
 
 昨年延べ 13,000名以上
+
+
+https://twitter.com/awscloud_jp/status/869459251059507201/video/1
+
+
 ## time table
 ### 5/31 
 
