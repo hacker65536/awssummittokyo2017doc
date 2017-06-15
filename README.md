@@ -58,7 +58,7 @@
 |---------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | 13:20〜14:00 | DevSecOps on AWS - Policy in Code | [スマートニュース] 大規模広告クリック率予測システムの実践 |
 | 14:20〜15:00 | AWS Greengrass Deep Dive | [CyberZ] OPENREC.tvにおけるライブ動画およびメッセージ配信基盤のリプレース全貌 |
-| 15:20〜16:00 | Blockchain on AWS -Ethereum Deep Dive with INFURA- | [メルカリ] Cloud connect the world as a Glue |
+| 15:20〜16:00 | Blockchain on AWS -Ethereum Deep Dive with INFURA- | [[メルカリ] Cloud connect the world as a Glue](http://tech.mercari.com/entry/2017/06/05/110000) |
 | 16:20〜17:00 | Deep Learning with Apache MXNet on AWS | [アプトポッド] リアルタイムな双方向ファストデータ伝送を実現する高速 IoT 基盤 - 開発・運用のこれまでとこれから |
 | 17:20〜18:00 | Startup CTO Night with Amazon CTO 〜Werner Vogels による公開技術レビュー〜 |  |
 | 18:30〜20:00 | - | Dev Day Night Powered by Intel |
