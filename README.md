@@ -152,6 +152,7 @@ https://speakerdeck.com/cygames/dau-100-mo-ren-tu-po-ji-cheng-chang-wozhi-eru-sh
 
 
 ## AWS re:invent 2017
+https://www.youtube.com/watch?v=AujwT3xgjPg  
 
 re:invent 2016  
 年約3万人
