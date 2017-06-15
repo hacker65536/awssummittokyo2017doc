@@ -1,5 +1,6 @@
 # awssummittokyo2017doc
 
+![aws summit tokyo 2017](./about_img02.jpg)
 
 ## about aws
 
@@ -77,7 +78,7 @@
 
 | title  |
 |-------|
-| **「『黒騎士と白の魔王』の gRPC による HTTP/2 API/ストリーミング通信の実践」** |
+| **[「『黒騎士と白の魔王』の gRPC による HTTP/2 API/ストリーミング通信の実践」](https://www.slideshare.net/neuecc/grpchttp2-api-streaming)** |
 | 4 月にリリースした「黒騎士と白の魔王」では、iOS/Android のモバイルアプリケーションからの全ての通信を gRPC による HTTP/2 で行っています。API リクエストからストリーミングまで、gRPC のあらゆる機能を使って実現した「黒騎士と白の魔王」のアーキテクチャについて、AWS 上でのスケーリングやデプロイを考慮した構成も含めてご紹介します。<br><br>株式会社グラニ取締役 CTO河合 宜文様                                                                                                    |
 | **「Cloud Gem/Amazonゲームエンジン Lumberyard Use case study」** |
 | ランバーヤード エンジンの の中の一つの機能である Lumberyard Cloud Gems Framework によって、動的コンテンツ、リーダーボード、ライブメッセージなどの人気の高いクラウドコネクティッド機能を容易に構築できます。今回は Cloud Gem 開発の責任者である Felix Duchesneau より Cloud Gem に特化したプレゼンをさせていただきます。また、ランバーヤードの使用事例として弊社スタジオのエンジニアから、実際にランバーヤードを使って開発している事例をご紹介します。<br><br>Amazon Game Services |
