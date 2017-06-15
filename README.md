@@ -115,11 +115,20 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 
 クラウドデザインパターン -> エコシステム ソリューション パターン
 
-## slides
+## report
 
 Amazon Redshift Ecosystem  
 http://dev.classmethod.jp/cloud/aws/aws-summit-tokyo-2017-report-amazon-redshift-ecosystem/
 
+[メルカリ] Cloud connect the world as a Glue  
+http://dev.classmethod.jp/cloud/aws-summit-2017-report-dev-day-d3t8-4-mercari-cloud-connect-the-world-as-a-glue/
+
+クックパッドの機械学習を支える基盤のつくりかた  
+http://dev.classmethod.jp/cloud/aws-summit-2017-report-d3t5-2/  
+https://speakerdeck.com/kanny/machine-learning-ops-at-cookpad  
+
+多数のコンサル案件と運用実績で見えた!? 安定＆急成長ビジネスを支えるデータ分析基盤とAWSインフラ環境  
+http://dev.classmethod.jp/cloud/aws-summit-tokyo-2017-classmethod/
 
 ## Getting Started
 
