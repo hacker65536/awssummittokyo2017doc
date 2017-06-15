@@ -117,6 +117,10 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 
 ## slides
 
+Amazon Redshift Ecosystem  
+http://dev.classmethod.jp/cloud/aws/aws-summit-tokyo-2017-report-amazon-redshift-ecosystem/
+
+
 ## Getting Started
 
 Free Tier  
