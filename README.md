@@ -133,6 +133,8 @@ http://dev.classmethod.jp/cloud/aws-summit-tokyo-2017-classmethod/
 ChatWorkの新メッセージングシステムを支える技術  
 https://speakerdeck.com/j5ik2o/chatworkfalsexin-metusezingusisutemuwozhi-eruji-shu
 
+[JapanTaxi] Athena 指向アナリティクス ～真面目に手を抜き価値を得よ～  
+https://speakerdeck.com/shotaumeda/awssummit-tokyo-devdays-japantaxi-umeda
 ## Getting Started
 
 Free Tier  
