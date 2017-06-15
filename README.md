@@ -9,6 +9,7 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 
 ## about aws summit tokyo 2017
 
+
 ![aws summit tokyo 2017](./about_img02.jpg)  
 5 月 31 日 ～ 6 月 2 日  
 グランドプリンスホテル新高輪  
@@ -21,6 +22,7 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 
 昨年延べ 13,000名以上
 
+https://aws.amazon.com/jp/summits/  
 
 https://twitter.com/awscloud_jp/status/869459251059507201/video/1
 
