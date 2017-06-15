@@ -151,7 +151,7 @@ https://speakerdeck.com/cygames/dau-100-mo-ren-tu-po-ji-cheng-chang-wozhi-eru-sh
 
 
 
-## re:invent 2017
+## AWS re:invent 2017
 
 re:invent 2016  
 年約3万人
@@ -160,7 +160,13 @@ e3 2016
 年約5万人
 
 
+2012年 6,000人 150セッション  
+2013年 9,000人 175セッション  
+2014年 13,500人 273セッション  
+2015年 19,000人 278セッション  
+2016年 32,000人 400セッション  
 
+今年は5万人超える計算
 
 ## Getting Started
 
