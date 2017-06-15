@@ -43,6 +43,14 @@
 | 18:20〜19:00  | 【AWS Tech 再演】AWS のコンテナ管理入門（Amazon EC2 Container Service）         | 【AWS Tech 再演】Amazon EC2 Systems Manager によるハイブリッド環境の管理    | -                                                       | 【AWS Tech 再演】Architecting for the Cloud -クラウドにおけるアーキテクチャの設計原則 | 【AWS Tech 再演】AWS で実現するセキュリティ・オートメーション                                         | -                                                                                                                                                                                     |
 | 19:20〜20:00  | 【AWS Tech 再演】AWS の Edge サービス入門                                       | 【AWS Tech 再演】AWS の NoSQL 入門 ?Amazon ElastiCache, Amazon DynamoDB?    | -                                                       | 【AWS Tech 再演】Machine Learning on AWS                                              | 【AWS Tech 再演】最新 IoT デザインパターン　?AWS IoT と AWS Greengrass を用いた構築パターン?          | -                                                                                                                                                                                     |
 
+| 時間/トラック | Dev Day トラック 1                                                         | Dev Day トラック 2                                                                                            |
+|---------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 13:20〜14:00  | DevSecOps on AWS - Policy in Code                                          | [スマートニュース] 大規模広告クリック率予測システムの実践                                                     |
+| 14:20〜15:00  | AWS Greengrass Deep Dive                                                   | [CyberZ] OPENREC.tvにおけるライブ動画およびメッセージ配信基盤のリプレース全貌                                 |
+| 15:20〜16:00  | Blockchain on AWS -Ethereum Deep Dive with INFURA-                         | [メルカリ] Cloud connect the world as a Glue                                                                  |
+| 16:20〜17:00  | Deep Learning with Apache MXNet on AWS                                     | [アプトポッド] リアルタイムな双方向ファストデータ伝送を実現する高速 IoT 基盤 - 開発・運用のこれまでとこれから |
+| 17:20〜18:00  | Startup CTO Night with Amazon CTO 〜Werner Vogels による公開技術レビュー〜 |                                                                                                               |
+| 18:30〜20:00  | -                                                                          | Dev Day Night Powered by Intel                                                                                |
 
 6/2
 
