@@ -117,3 +117,6 @@ https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-clou
 
 ## slides
 
+## Getting Started
+
+https://aws.amazon.com/jp/free/?nc2=h_ql
