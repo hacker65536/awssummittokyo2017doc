@@ -150,6 +150,18 @@ DAU 100 万人突破！ 急成長を支える Shadowverse のインフラ技術
 https://speakerdeck.com/cygames/dau-100-mo-ren-tu-po-ji-cheng-chang-wozhi-eru-shadowverse-falseinhuraji-shu
 
 
+
+## re:invent 2017
+
+re:invent 2016  
+年約3万人
+
+e3 2016  
+年約5万人
+
+
+
+
 ## Getting Started
 
 Free Tier  
