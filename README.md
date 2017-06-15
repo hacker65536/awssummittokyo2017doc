@@ -130,6 +130,9 @@ https://speakerdeck.com/kanny/machine-learning-ops-at-cookpad
 多数のコンサル案件と運用実績で見えた!? 安定＆急成長ビジネスを支えるデータ分析基盤とAWSインフラ環境  
 http://dev.classmethod.jp/cloud/aws-summit-tokyo-2017-classmethod/
 
+ChatWorkの新メッセージングシステムを支える技術  
+https://speakerdeck.com/j5ik2o/chatworkfalsexin-metusezingusisutemuwozhi-eruji-shu
+
 ## Getting Started
 
 Free Tier  
