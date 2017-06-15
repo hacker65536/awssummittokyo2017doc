@@ -135,6 +135,11 @@ https://speakerdeck.com/j5ik2o/chatworkfalsexin-metusezingusisutemuwozhi-eruji-s
 
 [JapanTaxi] Athena 指向アナリティクス ～真面目に手を抜き価値を得よ～  
 https://speakerdeck.com/shotaumeda/awssummit-tokyo-devdays-japantaxi-umeda
+
+DAU 100 万人突破！ 急成長を支える Shadowverse のインフラ技術  
+https://speakerdeck.com/cygames/dau-100-mo-ren-tu-po-ji-cheng-chang-wozhi-eru-shadowverse-falseinhuraji-shu
+
+
 ## Getting Started
 
 Free Tier  
