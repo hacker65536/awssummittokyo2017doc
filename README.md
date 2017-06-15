@@ -134,6 +134,9 @@ http://dev.classmethod.jp/cloud/aws-summit-2017-report-dev-day-d3t8-4-mercari-cl
 http://dev.classmethod.jp/cloud/aws-summit-2017-report-d3t5-2/  
 https://speakerdeck.com/kanny/machine-learning-ops-at-cookpad  
 
+DMMにおける会員基盤プラットフォームへのAWS導入から活用事例の紹介  
+http://labotech.dmm.com/entry/2017/06/02/155348
+
 多数のコンサル案件と運用実績で見えた!? 安定＆急成長ビジネスを支えるデータ分析基盤とAWSインフラ環境  
 http://dev.classmethod.jp/cloud/aws-summit-tokyo-2017-classmethod/
 
