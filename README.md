@@ -4,6 +4,9 @@
 
 ## about aws
 
+![csp](./CIS_Q416.jpg)  
+https://www.srgresearch.com/articles/microsoft-google-and-ibm-charge-public-cloud-expense-smaller-providers
+
 ## about aws summit tokyo 2017
 
 ![aws summit tokyo 2017](./about_img02.jpg)  
